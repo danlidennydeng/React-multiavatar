@@ -11,3 +11,7 @@ Currently, two official plugins are available:
 
 npm create vite@5.2.0
 npm install @multiavatar/multiavatar
+
+=========================================
+
+react-hook-form does not work with codevolution tutorial since this does not have typescript setup
